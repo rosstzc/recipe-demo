@@ -9,5 +9,5 @@ function App() {
     </div>
   );
 }
-     {/*fetch('spponacular.com/api&key="process.env.API_Key"')*/}
+
 export default App;
